@@ -4,7 +4,7 @@
   
   <h3 align="center"> 🎳 About Me 🎳 </h3>
   <a href="qortlgus100@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qortlgus100@gmail.com)](mailto:qortlgus100@gmail.com)"/></a> 
-  <a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a> 
+  <a href="https://www.notion.so/3be94d8d11994015bc3d5e9f660efead?pvs=12"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a> 
   <a href="https://baek-si-hyun.github.io/awwwards-my-app/" align="center"><img src="https://img.shields.io/badge/My Website-222321?style=round-square"/></a>
   <br/>
   <br/>
