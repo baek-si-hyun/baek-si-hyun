@@ -19,7 +19,7 @@
   <br/>
   <h3 align="center"> ✨My Github Stats✨ </h3>
   <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baek-si-hyun&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=baek-si-hyun&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baek-si-hyun&layout=compact" height="200px"> <img src="https://github-readme-stats.vercel.app/api?username=baek-si-hyun&show_icons=true" height="200px">
   </div>
 </div>
 
