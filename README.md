@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=SiHyun%20Baek&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![KakaoTalk_20240322_165139101](https://github.com/baek-si-hyun/baek-si-hyun/assets/107901109/c3908faf-5a9e-46cb-9d67-f003f6d423e0)
   
   <h3 align="center"> 🎳 About Me 🎳 </h3>
   <a href="qortlgus100@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qortlgus100@gmail.com)](mailto:qortlgus100@gmail.com)"/></a> 
