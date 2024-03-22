@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![KakaoTalk_20240322_170710409 (5)](https://github.com/baek-si-hyun/baek-si-hyun/assets/107901109/410b9c12-3c78-438d-9367-a83ed936bd7b)
+  ![KakaoTalk_20240322_170710409](https://github.com/baek-si-hyun/baek-si-hyun/assets/107901109/a35f1f6a-8611-4e22-b9d8-89568951ba73)
   
   <h3 align="center"> 🎳 About Me 🎳 </h3>
   <a href="qortlgus100@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qortlgus100@gmail.com)](mailto:qortlgus100@gmail.com)"/></a> 
